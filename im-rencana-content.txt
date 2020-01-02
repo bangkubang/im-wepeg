@@ -3,8 +3,10 @@ Rencana Belajar Programing language
 -Javascript
   *syntax js yg baru
   *framework javascript
-    ^Angular
+    ^Vue
     ^React
+-ruby
 -php
-  *laravel
+  *Laravel
+-Python
 dll
