@@ -2,3 +2,4 @@ Im-wepeg resolusi
 -saya ingin konsisten memahami bahasa programing
 -abcdefghijklmnopqrstu
 -menjadi web devlopment
+-membuat banyak aplikasi
