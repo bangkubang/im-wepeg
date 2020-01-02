@@ -3,5 +3,6 @@ Rencana Belajar Programing language
 -Javascript
 *syntax js yg baru
 *framework javascript
+-ruby
 -php
 dll
