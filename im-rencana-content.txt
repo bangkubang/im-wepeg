@@ -2,6 +2,6 @@ Rencana Belajar Programing language
 
 -Javascript
 *syntax js yg baru
-*framework js
+*framework javascript
 -php
 dll
