@@ -4,6 +4,7 @@ Rencana Belajar Programing language
   *syntax js yg baru
   *framework javascript
     ^Vue
+    ^React
 -ruby
 -php
   *Laravel
