@@ -1,0 +1,7 @@
+Rencana Belajar Programing language
+
+-Javascript
+*syntax js yg baru
+*framework javascript
+-php
+dll
