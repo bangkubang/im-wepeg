@@ -5,6 +5,7 @@ Rencana Belajar Programing language
   *framework javascript
     ^Vue
     ^React
+    ^Angular
 -ruby
 -php
   *Laravel
